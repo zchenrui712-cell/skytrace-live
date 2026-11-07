@@ -39,4 +39,4 @@ See [third-party notices](public/data-licenses.txt) for photo attribution and [t
 
 ## Public demo
 
-[Try SkyTrace Live](https://zchenrui712-cell.github.io/skytrace.html#demo) to inspect a labelled Boeing 787-9 sample flight or match an aircraft photo against the included reference. The public demo uses sample flight data and processes uploaded images in the browser. For live camera and ADS-B features, use the server-based version above.
+[Try SkyTrace Live](https://zchenrui712-cell.github.io/skytrace-live/) to open the green prototype interface, inspect a labelled Boeing 787-9 sample flight or match an aircraft photo against the included reference. The public demo uses sample flight data and processes uploaded images in the browser. For live camera and ADS-B features, use the server-based version above.
