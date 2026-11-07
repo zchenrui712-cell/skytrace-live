@@ -1,0 +1,11 @@
+SkyTrace Live — third-party notices
+
+Airbus A320-214 F-WWIQ photograph by Pedro Aragão. The repository file is
+byte-identical to the original file offered on Wikimedia Commons.
+Source: https://commons.wikimedia.org/wiki/File:Airbus_A320-214,_Airbus_Industrie_JP7617615.jpg
+License: Creative Commons Attribution-ShareAlike 3.0 Unported.
+https://creativecommons.org/licenses/by-sa/3.0/
+
+See vendor/shadcn-tailwind-4.13.0.LICENSE.md for the bundled style dependency.
+Dataset and provider entries in app/lib/aircraft-datasets.ts are reference links.
+Follow each provider's terms before fetching, using or redistributing its data.
